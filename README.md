@@ -1,5 +1,5 @@
 # ai-experiment-pragmatics
-This repository is the result of blind dating two chatbots. The models used are ChatGPT's 4.0 mini and Google's Gemini.
+This repository is the result of blind dating two chatbots. The models used are ChatGPT's 4.0 mini and Google's Gemini. The experiment was conducted in Korean, and the full conversation is translated using DeepL.
 
 ChatGPT's 4o mini - Sentiment scores graph
 [gpt_res](res_gpt.png)
